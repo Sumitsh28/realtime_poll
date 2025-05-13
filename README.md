@@ -2,6 +2,10 @@
 
 A real-time polling application where users can create or join poll rooms and vote live. The results update instantly across all users in the same room.
 
+## Frontend Hosted on Vercel: [Live Link](https://realtime-poll.vercel.app/)
+
+## Backend Web Socket Hosted on Render: [Link](https://realtime-poll-nx7j.onrender.com/)
+
 ## Features
 
 - Create a new poll room or join an existing one using a room code
