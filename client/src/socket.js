@@ -4,7 +4,7 @@ const socketClient = {
   
   connect() {
     return new Promise((resolve, reject) => {
-      const socket = new WebSocket('ws://localhost:8080');
+      const socket = new WebSocket('wss://realtime-poll-nx7j.onrender.com');
       
       socket.onopen = () => {
         console.log('WebSocket connected');
