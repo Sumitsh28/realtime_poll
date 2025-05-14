@@ -4,7 +4,7 @@ A real-time polling application where users can create or join poll rooms and vo
 
 ## Frontend Hosted on Vercel: [Live Link](https://realtime-poll.vercel.app/)
 
-## Backend Web Socket Hosted on Render: [Link](https://realtime-poll-nx7j.onrender.com/)
+## Backend Web Socket Hosted on Railway: [Link](https://realtimepoll-production.up.railway.app)
 
 ## Features
 
