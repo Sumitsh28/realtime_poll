@@ -4,7 +4,7 @@ const socketClient = {
   
   connect() {
     return new Promise((resolve, reject) => {
-      const socket = new WebSocket('wss://realtime-poll-nx7j.onrender.com');
+      const socket = new WebSocket('wss://realtimepoll-production.up.railway.app');
       
       socket.onopen = () => {
         console.log('WebSocket connected');
